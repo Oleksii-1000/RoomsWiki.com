@@ -85,7 +85,7 @@ main {
 }
 
 main h1 {
-    color: #cc0000;
+    color: #000000;
     font-size: 2rem;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -111,6 +111,13 @@ main p {
     max-width: 90%;
 }
 
+.A60{
+    color: red;
+}
+.A200 p{
+    color: red;
+}
+
 footer {
     width: 100%;
     background-color: #0a0a0a;
@@ -126,3 +133,4 @@ footer {
 footer p {
     margin: 0;
 }
+
